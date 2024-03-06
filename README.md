@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rıdvan Kesken</h1>
-<h3 align="center">I'm Rıdvan from Turkey, and .Net developer. I work mainly on .Net projects projects. Currently learning new front-end frameworks such as React and Vue.js. Please don't hesitate contact me to collaborate :)</h3>
+<h3 align="center">I'm Rıdvan from Turkey, and .Net developer. I work mainly on .Net projects. Currently learning new front-end frameworks such as React and Vue.js. Please don't hesitate contact me to collaborate :)</h3>
 
 <p align="left"> <a href="https://github.com/ridvankesken"><img src="https://github-profile-trophy.vercel.app/?username=ridvankesken" alt="ridvankesken" /></a> </p>
 
