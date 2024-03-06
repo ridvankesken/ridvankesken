@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Rıdvan Kesken</h1>
 <h3 align="center">I'm Rıdvan from Turkey, and .Net developer. I work mainly on .Net projects projects. Currently learning new front-end frameworks such as React and Vue.js. Please don't hesitate contact me to collaborate :)</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ridvankesken" alt="ridvankesken" /></a> </p>
+<p align="left"> <a href="https://github.com/ridvankesken"><img src="https://github-profile-trophy.vercel.app/?username=ridvankesken" alt="ridvankesken" /></a> </p>
 
 - 🌱 I’m currently learning **Vue and React**
 
-- 📫 How to reach me **ridvankesken@gmail.com**
+- 📫 How to reach me **kesken.dev@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -17,6 +17,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ridvankesken&show_icons=true&locale=en&layout=compact" alt="ridvankesken" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ridvankesken&show_icons=true&locale=en" alt="ridvankesken" /></p>
+[![Rıdvan Kesken's GitHub](https://github-readme-stats.vercel.app/api?username=ridvankesken)](https://github.com/ridvankesken)
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ridvankesken&" alt="ridvankesken" /></p>
